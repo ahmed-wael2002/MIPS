@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/MainModule.xst" -ofn "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/MainModule.syr" 

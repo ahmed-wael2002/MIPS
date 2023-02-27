@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/ahmed/OneDrive/Desktop/Phase 1/ALU/TB3_isim_beh.exe" -prj "C:/Users/ahmed/OneDrive/Desktop/Phase 1/ALU/TB3_beh.prj" "work.TB3" 

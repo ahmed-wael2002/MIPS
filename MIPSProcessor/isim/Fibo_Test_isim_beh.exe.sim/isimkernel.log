@@ -1,0 +1,28 @@
+Command line:
+   Fibo_Test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55975
+
+Thu May 19 12:32:08 2022
+
+
+ Elaboration Time: 0.15625 sec
+
+ Current Memory Usage: 5180.17 Meg
+
+ Total Signals          : 3949
+ Total Nets             : 6484
+ Total Signal Drivers   : 1333
+ Total Blocks           : 446
+ Total Primitive Blocks : 344
+ Total Processes        : 1333
+ Total Traceable Variables  : 59
+ Total Scalar Nets and Variables : 7429
+
+ Total Simulation Time: 1.21875 sec
+
+ Current Memory Usage: 4708.31 Meg
+
+Thu May 19 12:45:56 2022
+

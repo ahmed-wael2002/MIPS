@@ -1,0 +1,98 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/Fibo_Test_isim_beh.exe" -prj "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/Fibo_Test_beh.prj" "work.Fibo_Test" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/Mux2.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/Mux1.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/full_adder.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/Basic_ALU_Pack.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/Regs.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/Register_File_Pack.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/MUX.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/Decoder.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/ALU_Pack.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/ALU_1bit.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/SignExtension.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" into library work
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 62: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 63: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 64: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 65: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 66: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 67: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 68: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 69: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 70: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 71: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 72: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 73: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 74: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 75: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 76: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 77: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 78: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 79: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 80: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 81: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 82: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 83: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 84: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 85: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 86: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 87: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 88: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 89: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 90: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 91: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 92: Actual for formal port ld is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/RegFile .vhd" Line 93: Actual for formal port ld is neither a static name nor a globally static expression
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/MUX2x1.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/InstMem.V3.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/Datamem.V4.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/CPU_Pack.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/Control_Unit.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/ALU_Control.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/ALU.vhd" into library work
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/MainModule.vhd" into library work
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/MainModule.vhd" Line 68: Actual for formal port clr is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/MainModule.vhd" Line 83: Actual for formal port loadit is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/MainModule.vhd" Line 107: Actual for formal port loadit is neither a static name nor a globally static expression
+Parsing VHDL file "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/../Phase (2)/Fibo_Test .vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package cpu_pack
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package alu_pack
+Compiling package register_file_pack
+Compiling package std_logic_signed
+Compiling package textio
+Compiling package std_logic_textio
+Compiling architecture behavioral of entity Regs [\Regs(32)\]
+Compiling package basic_alu_pack
+Compiling architecture behavioral of entity Mux1 [mux1_default]
+Compiling architecture behavioral of entity full_adder [full_adder_default]
+Compiling architecture behavioral of entity Mux2 [mux2_default]
+Compiling architecture behavioral of entity ALU_1bit [alu_1bit_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity Decoder [decoder_default]
+Compiling architecture behavioral of entity MUX [mux_default]
+Compiling architecture behavioral of entity RegFile [\RegFile(32)\]
+Compiling architecture behavioral of entity MUX2x1 [\MUX2x1(5)\]
+Compiling architecture behavioral of entity SignExtension [signextension_default]
+Compiling architecture behavioral of entity MUX2x1 [\MUX2x1(32)\]
+Compiling architecture behavioral of entity INSTRMEMORY [\INSTRMEMORY(64,32,32)\]
+Compiling architecture behavioral of entity Control_Unit [control_unit_default]
+Compiling architecture behavioral of entity ALU_Control [alu_control_default]
+Compiling architecture behavioral of entity DATAMEMORY [\DATAMEMORY(64,32,32)\]
+Compiling architecture behavioral of entity MainModule [mainmodule_default]
+Compiling architecture behavior of entity fibo_test
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 46 VHDL Units
+Built simulation executable D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/Fibo_Test_isim_beh.exe
+Fuse Memory Usage: 37376 KB
+Fuse CPU Usage: 1296 ms

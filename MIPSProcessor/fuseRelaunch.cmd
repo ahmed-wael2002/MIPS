@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/Fibo_Test_isim_beh.exe" -prj "D:/College/Computer Organisation and Architecture/Final Project/Final Final/MIPSProcessor/Fibo_Test_beh.prj" "work.Fibo_Test" 
